@@ -1,0 +1,38 @@
+*{margin: 0;padding: 0;}
+body{font-family: 'Poppins', sans-serif; font-size: 14px; font-weight: 300; letter-spacing: 0.5px; line-height: 24px; word-spacing: 0.5px;}
+h1{font-size: 60px; font-weight: 700; font-family: 'Roboto Slab', serif;}
+h2{font-size: 50px; font-weight: 400; font-family: 'Roboto Slab', serif;}
+h3{font-size: 40px; font-weight: 400; font-family: 'Roboto Slab', serif;}
+h4{font-size: 30px; font-weight: 600; font-family: 'Roboto Slab', serif;}
+.container{width: 100%; height: auto;}
+.innerContainer{width: 1080px; margin:0 auto;}
+.header{width: 100%; height: 150px;}
+.logo{float: left;line-height: 100px;margin-left: 10px;}
+.left{float: left;}
+.right{float: right;}
+.searchBar{line-height: 100px;}
+.borderRad{border-radius: 20px; padding: 10px;border: 0.5px solid #dddddd;}
+.searchBar form button{border-radius: 100%; padding: 10px;margin-left: -30px;margin-right: 10px;border: 0.5px solid #dddddd; background-color: #88c8bc;}
+.navBar,.topbar{width: 100%;height: auto;clear: both;}
+.navigation ul li{float: left;list-style: none; padding:0 20px;}
+a{text-decoration:none; color: #595959;}
+.separater{padding-left: 11px !important;}
+.cart{padding-right: 11px !important;}
+.banner{width: 100%;height: 600px; background-image: url(../images/img_bg_1.jpg);background-size: cover;float: left;padding-top: 50px;color: #ffffff;}
+.content{line-height: 40px;padding-top: 50px;margin-top: 50px;}
+.content h1{margin-top: 50px;}
+.content h1, h3{line-height: 70px;}
+.content h1, h3, h4, h5{text-align: center;}
+h5{font-family:'Poppins', sans-serif;font-weight: 300; font-size: 14px; color: #ffffff;}
+.quote{overflow: hidden;padding-top: 50px;}
+.quote h1{line-height: 20px; font-size: 45px;text-align: center;margin: 50px 0;}
+.itemMain{padding: 25px 20px;}
+.items{float: left; width: calc(50% - 20px);height:auto; margin-bottom: 50px;}
+.items h4{margin-top: 30px;}
+img{width: 100%;}
+.item{width: 100%; height: auto;text-align: center;}
+.item li{width: calc(25% - 10px);margin-right: 10px; float: left;overflow: hidden; border: 1px solid #cccccc; margin-bottom: 10px;}
+li.right{margin-right: 0 !important;}
+.item li h5{color: #595959; margin-top: 10px;}
+.itemDesc{padding: 20px;}
+
